@@ -4,6 +4,8 @@ My name is Quentin, I am a PhD Student at UGA in beautiful Grenoble, France.
 
 I am working on Autonomic Management in HPC Systems.
 
+I am interested in Parallel and Distributed Computing as well as Energy Efficient Computing.
+
 <!--
 **GuilloteauQ/GuilloteauQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
