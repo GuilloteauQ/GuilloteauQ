@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Quentin, I am currently a Post-Doc at the University of Basel, Switzerland, working on the [Daphne project](https://daphne-eu.eu), and supervised by Florina Ciorba.
+My name is Quentin, I am currently a Post-Doc at Inria, in the AVALON Team, supervised by Christian Perez and Hélène Coullon, in the context of the PEPR Cloud (Taranis project).
+From December 2023 to January 2024, I was a postdoc at the University of Basel, Switzerland, working on the [Daphne project](https://daphne-eu.eu), and supervised by Florina Ciorba.
 Until December 2023, I was doing my PhD with Eric Rutten and Olivier Richard at the Université Grenoble Alpes, France, on applying Autonomic Computing and Control Theory to HPC systems, and improving the reproducibility of experiments with distributed systems.
 
 
